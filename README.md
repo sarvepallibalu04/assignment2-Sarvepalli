@@ -35,3 +35,11 @@
 | Tirumala  | 24hr  | 1000  |
 | Bangalore | 36hr  | 9000  |
 | Chennai   | 10hr  | 5000  |
+
+---
+
+## Pithy Quotes
+
+> " Don’t look for society to give you permission to be yourself " - Steve Maraboli
+
+ > “ Be there for others, but never leave yourself behind ” – Dodinsky
