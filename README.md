@@ -15,3 +15,10 @@
      2. Cook the mutton till you see an oil layer on top.
   3. Rinse and soak the rice for about an hour in cold water.
   4. Fry the cashews and onions. Drain and keep aside.Add marinated meat let it cook to almost 75% done.Bring a big pot of water to a boil, season with salt and spices, and cook the rice to 50% doneness. Taste and adjust the flavor of the water as needed. Salt should be slightly more than what you normally have.
+
+* Mutton
+* A good quality basmati rice 
+* Everyday spices plus oil and ghee
+* Milk and Yogurt
+* Cashews
+* Food color
