@@ -24,3 +24,14 @@
 * Food color
 
 [About me](AboutMe.md)
+
+---
+
+## Tourist Places
+
+| Location  | Hours | Money |
+|---        |---    |---    |
+| Ooty      | 48hr  | 6000  |
+| Tirumala  | 24hr  | 1000  |
+| Bangalore | 36hr  | 9000  |
+| Chennai   | 10hr  | 5000  |
